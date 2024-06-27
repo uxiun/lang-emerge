@@ -9,7 +9,7 @@ Google Driveに本リポジトリをクローンして，それを[Google Colabo
 
 環境のセットアップの手順は以下の通りです．
 
-1. [Google Colaboratory](https://colab.research.google.com/)にアクセスして，GitHub上のノートブックを，URL「https://github.com/kwakaba/m31-lang-emerge/blob/main/setup_on_gdrive.ipynb」を指定して開いてください．
+1. [Google Colaboratory](https://colab.research.google.com/)にアクセスして，GitHub上のノートブックを，URL「https://github.com/kwakaba/m31-lang-emerge/blob/main/0_Setup_on_gdrive.ipynb」を指定して開いてください．
 2. ノートブックのセルを実行して，Google Drive上に本リポジトリをクローンしてください．
 3. クローンが正常に完了したら，[Google Drive](https://drive.google.com/drive/my-drive)を開いてください． `m31-lang-emerge` というフォルダが作成されていると思います．以後は，この中にあるJupyterノートブックファイルをダブルクリックして演習を開始してください．
 
